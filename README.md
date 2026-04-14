@@ -1,5 +1,5 @@
 # bemelegito-feladat
-
+Valami 2
 ## Bolygók felfedezése
 
 A fő feladat az `Astronomer` osztály elkészítése, de annak vannak előfeltételei, függőségei. Olvasd el az egészet, majd haladj szépen sorban. Ha mindenzeket megcsináltad, lefodul, de nem fog csinálni semmit!
